@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quick-X/static/css/main.b1e8ace6.css",
+    "main.js": "/Quick-X/static/js/main.6b32d1db.js",
+    "static/js/496.0320d045.chunk.js": "/Quick-X/static/js/496.0320d045.chunk.js",
+    "index.html": "/Quick-X/index.html",
+    "main.b1e8ace6.css.map": "/Quick-X/static/css/main.b1e8ace6.css.map",
+    "main.6b32d1db.js.map": "/Quick-X/static/js/main.6b32d1db.js.map",
+    "496.0320d045.chunk.js.map": "/Quick-X/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e8ace6.css",
+    "static/js/main.6b32d1db.js"
+  ]
+}
